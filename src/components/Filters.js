@@ -14,7 +14,7 @@ class Filters extends React.Component {
             <option value="all">All</option>
             <option value="cat">Cats</option>
             <option value="dog">Dogs</option>
-            <option value="micropig">Micropigs</option>
+            <option value="micropig">Micropigs are just baby bacon</option>
           </select>
         </div>
 
